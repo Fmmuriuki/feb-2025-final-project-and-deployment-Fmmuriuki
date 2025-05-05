@@ -14,7 +14,7 @@ I’m Felix M. Muriuki, a student at PLP. I’ve always wanted to join tech, and
 
 ## 🌐 Live Website
 
-[Click here to view my live site](https://your-live-site-link.com)
+[Click here to view my live site](https://felixmuriukithecodemaster.netlify.app/)
 
 ## 🔧 Tools I Used
 
@@ -43,6 +43,8 @@ I’m Felix M. Muriuki, a student at PLP. I’ve always wanted to join tech, and
 - Thank you PLP for the support and mentorship.
 - All glory to God for this journey.
 
+
+----
 ---
 
 **Keep going! Dreams are possible.**
